@@ -1,0 +1,5 @@
+{
+  "name": "ukiyo-winter",
+  "owner": { "name": "silmacil" },
+  "plugins": [{ "name": "ukiyo-winter", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ukiyo-winter",
+  "version": "0.2.0",
+  "description": "A woodblock-print winter look: a moonlit castle in falling snow, quiet before battle. Dawn rises as the context fills. Off until /ukiyo on.",
+  "types": "./types/index.d.ts"
+}
